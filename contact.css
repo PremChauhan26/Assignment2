@@ -1,0 +1,28 @@
+/* Reset */
+@import url(./reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+/* End of Reset */
+
+body{
+    background-image: url(./203668-bleach-kurosaki-ichigo.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+  }
+  #contact-1{
+    height: 40%;
+    width: 100%;
+    background-color: rgb(1, 1, 1);
+    border-radius: 20px;
+    margin-bottom: 1.7em;
+    height: 41px;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    font-size: 20pt;
+  }
+main{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20pt;
+    font-weight: bold;
+}
